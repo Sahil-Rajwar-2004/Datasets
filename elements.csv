@@ -15,7 +15,7 @@ AtomicNumber,Element,Symbol,AtomicMass,ElectronicConfiguration,NumberofNeutrons,
 14,Silicon,Si,28.086,[Ne]3s2 3p2,14,14,14,3,14,solid,no,yes,no,no,yes,Metalloid,1.5,1.9,8.1517,2.33E+00,1683.15,3538,8,Berzelius,1824,0.705,3,4
 15,Phosphorus,P,30.974,[Ne]3s2 3p3,16,15,15,3,15,solid,no,yes,no,yes,no,Nonmetal,1.2,2.19,10.4867,1.82E+00,317.25,553,7,BranBrand,1669,0.769,3,5
 16,Sulfur,S,32.065,[Ne]3s2 3p4,16,16,16,3,16,solid,no,yes,no,yes,no,Nonmetal,1.1,2.58,10.36,2.07E+00,388.51,717.8,10,Prehistoric,,0.71,3,6
-17,Chlorine,Cl,35.453,[Ne]3s2 3p5,18,17,17,3,17,gas,no,yes,no,yes,no,Halogen,0.97,3.16,12.9676,3.21E-03,172.31,239.11,11,Scheele,1774,0.479,3,7
+17,Chlorine,Cl,34.98,[Ne]3s2 3p5,18,17,17,3,17,gas,no,yes,no,yes,no,Halogen,0.97,3.16,12.9676,3.21E-03,172.31,239.11,11,Scheele,1774,0.479,3,7
 18,Argon,Ar,39.948,[Ne]3s2 3p6,22,18,18,3,18,gas,no,yes,no,yes,no,Noble Gas,0.88,,15.7596,1.78E-03,83.96,87.3,8,Rayleigh and Ramsay,1894,0.52,3,8
 19,Potassium,K,39.098,[Ar]4s1,20,19,19,4,1,solid,no,yes,yes,no,no,Alkali Metal,2.8,0.82,4.3407,8.62E-01,336.5,1032,10,Davy,1807,0.757,4,1
 20,Calcium,Ca,40.078,[Ar]4s2,20,20,20,4,2,solid,no,yes,yes,no,no,Alkaline Earth Metal,2.2,1,6.1132,1.54E+00,1112.15,1757,14,Davy,1808,0.647,4,2
